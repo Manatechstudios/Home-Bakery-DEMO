@@ -1,0 +1,80 @@
+Create a complete modern, elegant, and premium responsive static website for a home bakery business.
+Business Name: Sweet Crumbs Home Bakery  
+Location: Hyderabad, India  
+Tagline: Freshly Baked Happiness at Your Doorstep  
+Output Requirements:
+- Provide a complete website using HTML, CSS, and JavaScript.
+- Structure files clearly so they can be downloaded and zipped easily.
+- Separate files: index.html, style.css, script.js
+- Code should be clean, well-structured, and easy to deploy on Vercel.
+Design Requirements (VERY IMPORTANT):
+- Use a premium elegant color palette:
+  Background: 
+#FFF8F5 (soft cream)
+  Primary: 
+#E8AFA6 (dusty rose)
+  Accent: 
+#6D4C41 (warm brown)
+  Text: 
+#2E2E2E (charcoal)
+- Use Google Fonts:
+  Headings: "Playfair Display"
+  Body: "Poppins"
+- Design style:
+  - Minimal, clean, and premium look
+  - Soft shadows and smooth rounded corners (12px–20px)
+  - Spacious layout with proper padding and margins
+  - Smooth hover effects and transitions
+  - Elegant animations (fade-in, slide-up)
+- Fully responsive (mobile-first design)
+Sections to include:
+1. Hero Section:
+- Full-width bakery banner image
+- Business name and tagline
+- CTA buttons: “Order Now” and “View Menu”
+2. About Us:
+- Short story about a passionate home baker
+- Focus on freshness, homemade quality, and hygiene
+3. Our Specialties:
+- Cakes (Birthday, Wedding, Custom Cakes)
+- Cupcakes
+- Cookies
+- Brownies
+- Use icons or images
+- Display in modern card layout with hover effects
+4. Gallery:
+- Grid layout with bakery images
+- Hover zoom effect
+5. Customer Reviews:
+- 3–4 realistic testimonials
+- Card-based layout with soft shadows
+6. Order Process:
+- Step 1: Choose item
+- Step 2: Customize
+- Step 3: Order via WhatsApp
+- Show in horizontal or step layout
+7. Contact Section:
+- Phone number
+- WhatsApp click-to-chat button
+- Instagram link
+- Location text
+8. Footer:
+- Social media icons
+- Small note: “This is a demo website created by Design Spaces”
+Extras:
+- Sticky navigation bar
+- Smooth scrolling
+- Floating WhatsApp chat button
+- Hover effects on buttons and images
+- Basic SEO meta tags
+- Favicon included
+Animations:
+- Fade-in on scroll
+- Slight upward motion (translateY)
+- Smooth button hover effects
+Important:
+- Keep everything elegant and minimal
+- Avoid clutter or too many colors
+- Focus on premium look and user-friendly layout
+Final Output:
+Provide all files in a structured format so I can download and zip them for deployment.GIVE THE OUTPUT IN A ZIP FILE downloadable
